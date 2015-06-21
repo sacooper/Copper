@@ -1,0 +1,10 @@
+[package]
+name = "copper"
+version = "0.1.0"
+authors = ["Scott Cooper <scott.cooper2@mail.mcgill.ca>"]
+
+[dependencies]
+mmap = "*"
+libc = "*"
+rustc-serialize = "*"
+rand = "*"
